@@ -10,4 +10,4 @@ If you want to stop the shell just put https://evil.com/shell.php?stop
 
 ## Video Demo:
 
-[![VideoURL](https://i.ibb.co/GJXHBX3/download.png)]([https://www.youtube.com/watch?v=IuzwL791etA](https://www.youtube.com/watch?v=IuzwL791etA) "Video URL")
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/GJXHBX3/download.png)](https://www.youtube.com/watch?v=IuzwL791etA)
