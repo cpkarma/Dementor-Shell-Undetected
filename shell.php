@@ -1,5 +1,4 @@
 <?php
-//Coded By Orion Hridoy --> fb.com/orion.hridoy
 session_start();
 if (isset($_REQUEST['start']))
 {
